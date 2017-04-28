@@ -1,0 +1,5 @@
+import time
+
+def foo(f):
+    def foo2(:
+        r
